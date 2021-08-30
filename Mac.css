@@ -1,0 +1,58 @@
+p,h1,.b-1,.b-2,.b-3,label{
+    text-align:center;
+    top:1000px;
+    padding-left: 15px;
+    margin-left:10px;
+}
+.side-img{
+    position: absolute;
+    width: 400px;
+    height:300px;
+    left:50px;
+    top: 100px;
+ 
+}
+img{
+    text-align:center;
+    margin-left:30px;
+    margin-top: 30px;
+    border-color:50px;
+    margin-right:20px;
+}
+h3{
+    text-align:center;
+}
+.container{
+text-align:center;
+
+}
+#button1,#button2{
+    width: 150px;
+    height: 40px;
+    
+    }
+    #btn-1,#btn-2,#btn-3{
+    width: 150px;
+    height: 40px;
+    }
+    #bton-1,#bton-2,#bton-3{
+        width: 150px;
+        height: 40px;
+        }
+.row{
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+}
+.apply{
+    color:red;
+}
+
+h2{
+    text-decoration:black;
+    text-align:center;
+}
+
+.price{
+ text-align:center;
+}
